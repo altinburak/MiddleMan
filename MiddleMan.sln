@@ -7,6 +7,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MiddleMan", "MiddleMan\Midd
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MiddleMan.Tests", "MiddleMan.Tests\MiddleMan.Tests.csproj", "{56D0143D-D9B0-4E45-9B0D-8EA43F02D4F0}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MiddleMan.DAL", "MiddleMan.DAL\MiddleMan.DAL.csproj", "{C9E4B0B6-85F1-4DF2-8F67-F0D783F27007}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -21,6 +23,10 @@ Global
 		{56D0143D-D9B0-4E45-9B0D-8EA43F02D4F0}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{56D0143D-D9B0-4E45-9B0D-8EA43F02D4F0}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{56D0143D-D9B0-4E45-9B0D-8EA43F02D4F0}.Release|Any CPU.Build.0 = Release|Any CPU
+		{C9E4B0B6-85F1-4DF2-8F67-F0D783F27007}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C9E4B0B6-85F1-4DF2-8F67-F0D783F27007}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C9E4B0B6-85F1-4DF2-8F67-F0D783F27007}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C9E4B0B6-85F1-4DF2-8F67-F0D783F27007}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
